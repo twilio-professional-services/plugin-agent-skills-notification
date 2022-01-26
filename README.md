@@ -56,7 +56,7 @@ Download or clone this code repository to your local development environment.
 GitHub provides several options for downloading this source code:
 
 - Use the [GitHub desktop](https://desktop.github.com/) application
-- Clone the code via [HTTPS, SSH, or GitHub CLI](https://github.com/twilio-professional-services/plugin-updated-agent-skills.git)
+- Clone the code via [HTTPS, SSH, or GitHub CLI](https://github.com/twilio-professional-services/plugin-agent-skills-notification.git)
 - Download a zip file of this code.
 
 ## Step 2: Install Dependencies
